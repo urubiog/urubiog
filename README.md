@@ -1,5 +1,6 @@
 # 💫 About Me
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=urubiog&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 🔭 I’m currently working on creating an MLP model trained on the MNIST dataset, using my easyAIs lib.
 
 👯 I’m looking to collaborate on projects related to deep learning and artificial intelligence, where innovative methods or architectures can be implemented.
