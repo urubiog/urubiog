@@ -16,7 +16,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=urubiog&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=urubiog&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false">
 </p>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=urubiog&theme=tokyonight&hide_border=false)<br/>
 
