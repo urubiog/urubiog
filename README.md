@@ -15,9 +15,7 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=urubiog&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false">
-</p>
+![](https://github-readme-stats.vercel.app/api?username=urubiog&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 
 **These statistics reflect my journey as a developer, showcasing my commitment to learning and contributing effectively to the community.** Each contribution is a stepping stone towards greater expertise and understanding in the vast field of software development.
 
