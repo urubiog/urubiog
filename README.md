@@ -26,9 +26,6 @@
 
 **This repository represents my dedication and contributions to the open-source community, showcasing my commitment to collaborative development and innovation.** I believe in the power of shared knowledge and strive to create solutions that can benefit others while honing my skills.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ---
 
 **Thank you for taking the time to explore my profile!** I welcome any feedback or questions regarding my work and interests. Together, we can push the boundaries of technology and explore the vast potential of artificial intelligence.
