@@ -5,9 +5,6 @@
 
 🔭 I am currently immersed in the creation of an MLP model trained on the MNIST dataset, leveraging my easyAIs library. This endeavor marks a significant milestone in my quest to master the intricacies of machine learning, blending theoretical insights with practical applications.<br><br>👯 I am eager to collaborate on projects that explore the captivating realms of deep learning and artificial intelligence, where innovative methods or architectures can be implemented to push the boundaries of what is possible.<br><br>🤝 I seek assistance with model optimization and efficient memory management in software development, as well as the implementation of new functionalities in my library. Your expertise could greatly enhance the effectiveness and reach of my projects.<br><br>🌱 Currently, I am delving into advanced data processing techniques and optimization algorithms within the context of machine learning, equipping myself with the knowledge and skills necessary to tackle future challenges with confidence and sophistication.<br><br>💬 Feel free to inquire about my ongoing projects, the applications of artificial intelligence, or any concept related to programming and deep learning. I am always open to discussion and exchange of ideas.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=urubiog&theme=onedark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=urubiog&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=urubiog&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
