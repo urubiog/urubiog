@@ -23,6 +23,8 @@
 
 Currently studying Computer Science Engineering, passionate about exploring and developing projects in Artificial Intelligence (ML/DL), Quantitative Finance, and other theoretically grounded areas applied to Information Technology. Enthusiastic about analyzing complex systems, designing efficient algorithms, and building software that blends mathematical rigor with technical elegance. Driven by curiosity, constantly exploring new technologies and methodologies, with the goal of continuous learning and contributing to the open-source community.
 
+<img border="none" src="https://github-readme-activity-graph.vercel.app/graph?username=urubiog&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true">
+
 🚀 Turning abstract theories into tangible software solutions. \
 🔬 Investigating patterns in data to uncover hidden insights. \
 🎯 Striving for clarity, efficiency, and beauty in code. \
@@ -87,5 +89,3 @@ Currently studying Computer Science Engineering, passionate about exploring and 
   <img align="middle" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=urubiog&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=8">
   </td>
 </tbody></table>
-
-<img border="none" src="https://github-readme-activity-graph.vercel.app/graph?username=urubiog&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true">
