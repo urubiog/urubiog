@@ -84,8 +84,7 @@ Currently studying Computer Science Engineering, passionate about exploring and 
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=urubiog&amp;theme=dark&amp;hide_border=false">
   <br><br>
-  <img align="middle" src="">
 </td><td width="50%" align="center">
   <img align="middle" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=urubiog&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=8">
-  </td>
+  </td></tr>
 </tbody></table>
