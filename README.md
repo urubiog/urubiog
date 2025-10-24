@@ -1,3 +1,4 @@
+
 <!--github.com/inttter/md-badges-->
 <div align="center">
     <a href="https://www.linkedin.com/in/uriel-rubio-garcia/">
@@ -48,11 +49,13 @@ Currently studying Computer Science Engineering, passionate about exploring and 
     Proficient in C, with solid understanding of pointers, memory management, and low-level programming. Learning C++ with focus on object-oriented programming and STL. Experienced in Python for general-purpose programming and data analysis, including Numpy and Pandas. Familiar with Go, including slices, arrays, interfaces, and goroutines, while continuing to develop advanced concurrency skills.
     <br>
     <br>
+    <hr>
     <!--<img src="https://github.com/urubiog/.media/blob/488abaa4ad205369fb3721b53c47f94ee538a28d/cuda-logo.png" width=150 />-->
     <p><b>Frameworks & Technologies</b></p>
     Exploring frameworks and technologies relevant to AI and software development.
     <br>
     <br>
+    <hr>
     <img src="https://skillicons.dev/icons?i=git,github,md,latex" />
     <img src="https://github.com/urubiog/.media/blob/main/jupyter-logo.png?raw=true" width="55" style="vertical-align: -2px;" />
     <img src="https://skillicons.dev/icons?i=arduino,bash,debian,ubuntu" />
