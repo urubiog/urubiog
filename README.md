@@ -74,7 +74,7 @@ Currently studying Computer Science Engineering, passionate about exploring and 
 <!--    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 <!--</h3>-->
 
-<br>
+<!-- <br>
 
 <h3>
     <img src="https://github.com/urubiog/.media/blob/main/stats.gif?raw=true" width="25">
@@ -92,4 +92,4 @@ Currently studying Computer Science Engineering, passionate about exploring and 
 </td><td width="50%" align="center">
   <img align="middle" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=urubiog&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=8">
   </td></tr>
-</tbody></table>
+</tbody></table> -->
