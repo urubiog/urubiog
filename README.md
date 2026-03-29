@@ -19,8 +19,10 @@
 
 <!--https://git.io/typing-svg-->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Hack+Nerd+Font&size=25&pause=1000&color=56F751&center=true&width=850&lines=Computer+Science+Engineering+Student;Passionate+Developer+%26+Knowledge+Seeker;Explorer+of++ML%2FDL+%26+FinTech;Committed+to+Growth+%26+Technical+Excellence" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Hack+Nerd+Font&size=25&pause=1000&color=56F751&center=true&width=850&lines=Computer+Science+Engineering+Student;Committed+to+Growth+%26+Technical+Excellence" alt="Typing SVG" />
 </div>
+
+
 
 Currently studying Computer Science Engineering, passionate about exploring and developing projects in Artificial Intelligence (ML/DL), Quantitative Finance, and other theoretically grounded areas applied to Information Technology. Enthusiastic about analyzing complex systems, designing efficient algorithms, and building software that blends mathematical rigor with technical elegance. Driven by curiosity, constantly exploring new technologies and methodologies, with the goal of continuous learning and contributing to the open-source community.
 
