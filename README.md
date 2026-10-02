@@ -17,6 +17,10 @@
 
 # Hi👋, this is Uriel
 
+<div align="center">
+    <img src="www.gitskins.com/api/section/hero?username=urubiog&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F159381070%3Fu%3D70e416e323e34d4146b7700c3d10ebed21b9e867%26v%3D4&label=Uriel Rubio García&mode=dark">
+</div>
+
 <!--https://git.io/typing-svg-->
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Hack+Nerd+Font&size=25&pause=1000&color=56F751&center=true&width=850&lines=Computer+Science+Engineering+Student;Committed+to+Growth+%26+Technical+Excellence" alt="Typing SVG" />
@@ -25,8 +29,6 @@
 
 
 Currently studying Computer Science Engineering, passionate about exploring and developing projects in Artificial Intelligence (ML/DL), Quantitative Finance, and other theoretically grounded areas applied to Information Technology. Enthusiastic about analyzing complex systems, designing efficient algorithms, and building software that blends mathematical rigor with technical elegance. Driven by curiosity, constantly exploring new technologies and methodologies, with the goal of continuous learning and contributing to the open-source community.
-
-<img border="none" src="https://github-readme-activity-graph.vercel.app/graph?username=urubiog&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true">
 
 🚀 Turning abstract theories into tangible software solutions. \
 🔬 Investigating patterns in data to uncover hidden insights. \
