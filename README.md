@@ -18,7 +18,7 @@
 # Hi👋, this is Uriel
 
 <div align="center">
-    <img src="www.gitskins.com/api/section/hero?username=urubiog&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F159381070%3Fu%3D70e416e323e34d4146b7700c3d10ebed21b9e867%26v%3D4&label=Uriel Rubio García&mode=dark">
+    <img src="https://www.gitskins.com/api/section/hero?username=urubiog&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F159381070%3Fu%3D70e416e323e34d4146b7700c3d10ebed21b9e867%26v%3D4&label=Uriel Rubio García&mode=dark" />
 </div>
 
 <!--https://git.io/typing-svg-->
